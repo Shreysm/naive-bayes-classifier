@@ -18,9 +18,13 @@ python code.py
 **Output:**
 
 Training the first 500 files
+
 Processing the text.........
+
 Total number of words found in the dataset : 104163
+
 Testing the remaining 500 files
+
 Calculating probabilities.........
 Accuracy : 65.0%
 
